@@ -2,7 +2,10 @@ package TugasProject;
 
 import java.util.Scanner;
 
-public class Main {
+public class Restaurant {
+    public Restaurant(int id, String nama, String alamat) {
+    }
+
     public static void main (String [] args) throws Exception {
 //        deklarasi
         String user, password;
@@ -73,5 +76,13 @@ public class Main {
             }
 
         }
+    }
+
+    public boolean getNama() {
+        return false;
+    }
+
+    public int getId() {
+        return 0;
     }
 }
