@@ -25,15 +25,20 @@ password_user = "1130"
 Berikut adalah Tampilan dari halaman login dari program:
 
 
--->  *Menu*
+-->  *Menu Admin*
 
 Halaman menu pada user Admin dapat melakukan penambahan restoran, melihat restoran, menghapus restoran, dan kembali lagi ke halaman login
 
 ![Menu user](/TugasProject/IMG/menu%20admin.png)
+
+Setelah itu user admin dapat memasukan ID restoran, nama restoran, dan alamat dari restoran
+
+![menambahkan](/TugasProject/IMG/menambahkan%20alamat%20id%20dan%20nama.png)
+
+
 
 --> *Menu Order*
 
 Pada halaman ini costumer dapat melihat restoran yang sudah ditambahkan oleh admin dan memilih restoran yang ingin dicari, lalu costumer dapat memilih pilihan keluat untuk menyelesaikan program
 
 ![restoran](/TugasProject/IMG/menu%20costumer.png)
-
