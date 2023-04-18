@@ -44,3 +44,6 @@ User admin juga dapat menambahkan nama dari menu makanan dan minuman
 Pada halaman ini costumer dapat melihat restoran yang sudah ditambahkan oleh admin dan memilih restoran yang ingin dicari, lalu costumer dapat memilih pilihan keluat untuk menyelesaikan program
 
 ![restoran](/TugasProject/IMG/menu%20costumer.png)
+
+# UML
+![UML](/TugasProject/IMG/UML%20Flow.drawio.png)
