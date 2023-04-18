@@ -35,7 +35,9 @@ Setelah itu user admin dapat memasukan ID restoran, nama restoran, dan alamat da
 
 ![menambahkan](/TugasProject/IMG/menambahkan%20alamat%20id%20dan%20nama.png)
 
+User admin juga dapat menambahkan nama dari menu makanan dan minuman
 
+![menu makanan](/TugasProject/IMG/menambahkan%20menu.png)
 
 --> *Menu Order*
 
