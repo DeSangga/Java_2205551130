@@ -33,7 +33,7 @@ public class Restaurant {
                     do {
                         order.MenuOrderan();
 
-                        System.out.print("Masukan opsi yang anda inginkan ? ");
+                        System.out.print("Masukan opsi yang anda inginkan : ");
                         menu_order = scanner.nextInt();
                         switch (menu_order){
                             case 1:
